@@ -1,0 +1,6 @@
+{
+  "name": "Farm Fresh",
+  "description": "Direct marketplace connecting farmers with customers for fresh produce without middlemen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
